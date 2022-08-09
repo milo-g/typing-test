@@ -30,6 +30,4 @@ Use the `analysis` function to get statistics on your aggregate results, and use
 ---
 
 ### Preview:
-![preview image](http://milogosnell.com:4000/public/preview.png)
-
-![preview image](http://milogosnell.com:4000/public/preview2.png)
+![preview image](https://github.com/milo-g/typing-test/raw/master/etc/preview.png)
