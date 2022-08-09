@@ -2,7 +2,10 @@
 ## A basic, lightweight English typing speed test operated from the command line.
 Test your typing speed quickly by choosing from the top 200 words or top 1000 most common English words. The test is timed with limits ranging from thirty seconds to five minutes. 
 
+### Preview:
+![preview image](https://github.com/milo-g/typing-test/raw/master/etc/preview.png)
 
+---
 
 ### Installation:
 > ` npm i -g @milo-g/typing-test`
@@ -25,9 +28,3 @@ Select a mode, `basic` or `advanced`, which are the top 200 and top 1000 words r
 Start the test by pressing any key and type the highlighted words, pressing space to advance. After the test is complete, the program will ask to save the result. While in the test, quit anytime by pressing `esc`.
 
 Use the `analysis` function to get statistics on your aggregate results, and use the `clear data` option to clear all results.
-
-
----
-
-### Preview:
-![preview image](https://github.com/milo-g/typing-test/raw/master/etc/preview.png)
